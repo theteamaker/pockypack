@@ -26,5 +26,6 @@ kubejs/assets
 kubejs/README.txt
 
 # other
+emi.json
 .vscode/
 *.txt
