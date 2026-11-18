@@ -1,6 +1,22 @@
 {
-  "favorites": [],
-  "lookup_history": [],
+  "favorites": [
+    {
+      "stack": "item:environmental:zonkey_spawn_egg"
+    },
+    {
+      "stack": "item:environmental:zebra_spawn_egg"
+    },
+    {
+      "stack": "item:environmental:yak_spawn_egg"
+    },
+    {
+      "stack": "item:environmental:zorse_spawn_egg"
+    }
+  ],
+  "lookup_history": [
+    "item:environmental:yak_pants",
+    "item:environmental:cooked_venison"
+  ],
   "craft_history": [],
   "recipe_defaults": {
     "added": [],
