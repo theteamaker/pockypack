@@ -1,11 +1,13 @@
-# EMI
-## General
+# Changes
+
+## EMI
+### General
 - Help Level: None
 
-## Left Sidebar
+### Left Sidebar
 - Pages: None
 
-## Right Sidebar
+### Right Sidebar
 - Pages: Index, Craftables, Favorites
 - Position: Center Center
 - Size: 12 12
@@ -15,3 +17,8 @@
 - Moonlight Lib's "Spawn Box Block"
 - Every Compat's "item.everycomp.all_woods"
 - StreamsReflowing's "Water"
+
+## Visual Workbench
+
+- Enabled flat rendering of crafting table contents
+- Disabled rendering the result of a recipe

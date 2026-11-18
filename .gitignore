@@ -15,11 +15,12 @@ usercache.json
 usernamecache.json
 
 # added by mods
+config/iris.properties
 dynamic-data-pack-cache/
 dynamic-resource-pack-cache/
 local/
 moonlight-global-datapacks/
-streamsreflowing/
+/streamsreflowing/
 
 # kubejs
 kubejs/assets
@@ -28,4 +29,4 @@ kubejs/README.txt
 # other
 emi.json
 .vscode/
-*.txt
+/*.txt

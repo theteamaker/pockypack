@@ -1,6 +1,6 @@
 {
   "dynamicOnLoad": true,
-  "ticksRevealed": 40,
+  "ticksRevealed": 20,
   "animationMove": true,
   "animationFade": true,
   "animationSpeed": 2.0,
