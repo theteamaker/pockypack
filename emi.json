@@ -1,0 +1,20 @@
+{
+  "favorites": [],
+  "lookup_history": [],
+  "craft_history": [],
+  "recipe_defaults": {
+    "added": [],
+    "tags": {},
+    "resolutions": {},
+    "disabled": []
+  },
+  "hidden_stacks": [
+    "item:everycomp:all_woods",
+    "item:moonlight:spawn_box",
+    {
+      "type": "fluid",
+      "id": "streamsreflowing:stream",
+      "amount": 0
+    }
+  ]
+}

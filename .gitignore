@@ -1,11 +1,30 @@
 # instance
 coremods/
+downloads/
+logs/
 mods/
+options.txt
 resourcepacks/
 saves/
 screenshots/
+server-resource-packs/
 shaderpacks/
 texturepacks
+icon.png
+usercache.json
+usernamecache.json
+
+# added by mods
+dynamic-data-pack-cache/
+dynamic-resource-pack-cache/
+local/
+moonlight-global-datapacks/
+streamsreflowing/
+
+# kubejs
+kubejs/assets
+kubejs/README.txt
 
 # other
-.vscode
+.vscode/
+*.txt
