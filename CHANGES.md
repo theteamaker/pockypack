@@ -17,6 +17,13 @@
 - Moonlight Lib's "Spawn Box Block"
 - Every Compat's "item.everycomp.all_woods"
 - StreamsReflowing's "Water"
+- Serene Seasons' Calendar
+- Serene Seasons' Season Sensor
+
+## KubeJS
+### Recipe Removals
+- Serene Seasons' Calendar
+- Serene Seasons' Season Sensor
 
 ## Visual Workbench
 

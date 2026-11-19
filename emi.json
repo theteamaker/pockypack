@@ -14,6 +14,8 @@
     }
   ],
   "lookup_history": [
+    "item:sereneseasons:calendar",
+    "item:sereneseasons:season_sensor",
     "item:environmental:yak_pants",
     "item:environmental:cooked_venison"
   ],
@@ -31,6 +33,8 @@
       "type": "fluid",
       "id": "streamsreflowing:stream",
       "amount": 0
-    }
+    },
+    "item:sereneseasons:calendar",
+    "item:sereneseasons:season_sensor"
   ]
 }
