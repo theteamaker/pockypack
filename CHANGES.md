@@ -1,5 +1,8 @@
 # Changes
 
+## Better Days
+- Changed daytime to be twice as long, for a total of 20 minutes
+
 ## EMI
 ### General
 - Help Level: None
