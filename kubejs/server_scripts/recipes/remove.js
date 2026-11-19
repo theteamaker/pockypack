@@ -1,0 +1,12 @@
+ServerEvents.recipes(event => {
+    event.remove({ id: 'sereneseasons:calendar' })
+    event.remove({ id: 'sereneseasons:season_sensor' })
+    event.remove({ id: 'travelertoolbelt:belt' })
+    event.remove({ id: 'travelertoolbelt:copper_belt' })
+    event.remove({ id: 'travelertoolbelt:iron_belt' })
+    event.remove({ id: 'travelertoolbelt:gold_belt' })
+    event.remove({ id: 'travelertoolbelt:diamond_belt' })
+    event.remove({ id: 'travelertoolbelt:netherite_belt' })
+    event.remove({ id: 'minecraft:cake' })
+    event.remove({ id: 'comforts:rope_and_nail' })
+})

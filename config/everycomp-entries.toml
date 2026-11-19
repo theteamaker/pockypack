@@ -16,3 +16,6 @@
 			cheerful_plum = true
 			moody_plum = true
 			wisteria = true
+
+		[entries.wood_type.farmersdelight]
+			cabinet = true

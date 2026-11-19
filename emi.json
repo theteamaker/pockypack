@@ -14,6 +14,21 @@
     }
   ],
   "lookup_history": [
+    "item:travelertoolbelt:iron_belt",
+    "item:farmersdelight:rope",
+    {
+      "type": "item",
+      "id": "comforts:rope_and_nail",
+      "amount": 2
+    },
+    "item:minecraft:cake",
+    "item:farmersdelight:sweet_berry_cheesecake",
+    "item:travelertoolbelt:copper_belt",
+    "item:travelertoolbelt:belt",
+    "item:comforts:sleeping_bag_orange",
+    "item:comforts:sleeping_bag_white",
+    "item:comforts:sleeping_bag_brown",
+    "item:comforts:hammock_blue",
     "item:sereneseasons:calendar",
     "item:sereneseasons:season_sensor",
     "item:environmental:yak_pants",
@@ -35,6 +50,11 @@
       "amount": 0
     },
     "item:sereneseasons:calendar",
-    "item:sereneseasons:season_sensor"
+    "item:sereneseasons:season_sensor",
+    "item:travelertoolbelt:belt",
+    "item:travelertoolbelt:copper_belt",
+    "item:travelertoolbelt:gold_belt",
+    "item:travelertoolbelt:diamond_belt",
+    "item:travelertoolbelt:netherite_belt"
   ]
 }

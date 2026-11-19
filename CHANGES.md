@@ -19,13 +19,28 @@
 - StreamsReflowing's "Water"
 - Serene Seasons' Calendar
 - Serene Seasons' Season Sensor
+- Traveler Tool Belt's Tool Belt
+- Traveler Tool Belt's Copper Tool Belt
+- Traveler Tool Belt's Gold Tool Belt
+- Traveler Tool Belt's Diamond Tool Belt
+- Traveler Tool Belt's Netherite Tool Belt
 
 ## KubeJS
+### Recipe Changes
+- Changed recipe for Traveler Tool Belt's "Iron Tool Belt" (now named "Tool Belt")
+
 ### Recipe Removals
 - Serene Seasons' Calendar
 - Serene Seasons' Season Sensor
+- Traveler Tool Belt's Tool Belt
+- Traveler Tool Belt's Copper Tool Belt
+- Traveler Tool Belt's Iron Tool Belt (substituted for recipe that makes use of rope)
+- Traveler Tool Belt's Gold Tool Belt
+- Traveler Tool Belt's Diamond Tool Belt
+- Traveler Tool Belt's Netherite Tool Belt
+- Minecraft's Cake Recipe (substituted for Farmer's Delight's recipe)
+- Comfort's Rope and Nail Recipe (substituted for recipe that makes use of rope)
 
 ## Visual Workbench
-
 - Enabled flat rendering of crafting table contents
 - Disabled rendering the result of a recipe
