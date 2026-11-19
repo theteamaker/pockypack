@@ -1,0 +1,2 @@
+- Adjust Cold Sweat to fit game balance and streamlined crafting. Think about whether the Sewing Table is really necessary
+- Check out and see if anything from Aquaculture 2 could be trimmed down to fit with other mods more concisely; I know right now I'd largely prefer the Fillet Knife be replaced by the knife from Farmer's Delight

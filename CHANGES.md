@@ -28,6 +28,9 @@
 - Traveler Tool Belt's Diamond Tool Belt
 - Traveler Tool Belt's Netherite Tool Belt
 
+## HT's TreeChop
+- Changed leaf decay mode to "IGNORE", so that Leaves Be Gone can handle it instead
+
 ## KubeJS
 ### Recipe Changes
 - Changed recipe for Traveler Tool Belt's "Iron Tool Belt" (now named "Tool Belt")

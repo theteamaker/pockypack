@@ -16,6 +16,7 @@ usernamecache.json
 
 # added by mods
 config/iris.properties
+config/whitenoise-client.toml
 dynamic-data-pack-cache/
 dynamic-resource-pack-cache/
 local/
